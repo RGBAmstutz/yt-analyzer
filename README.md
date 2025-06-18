@@ -1,5 +1,5 @@
 # yt-analyzer
-Summarize or prompt youtube videos locally with ollama!
+Summarize or prompt youtube videos locally with Ollama!
 
 ## Setup
 ### Prerequisites  
