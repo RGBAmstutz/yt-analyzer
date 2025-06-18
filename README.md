@@ -3,6 +3,8 @@ Summarize or prompt youtube videos locally with Ollama!
 
 ## Setup
 ### Prerequisites  
+<b><i>Disclaimer:</i></b> This code is primarily written for Unix/Linux. If there is demand for it on other operating systems, I'll consider porting it over!
+
 Please make sure you have Ollama and Anaconda (conda) installed. You must have at least one Language Model (LM) installed through Ollama before proceeding. 
 
 ### Environment
